@@ -1,0 +1,1 @@
+usuarios = [{nombre : "Elliot", genero : "masculino"}, {nombre : "Israel", genero : "masculino"}];
