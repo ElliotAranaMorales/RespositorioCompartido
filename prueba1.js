@@ -1,1 +1,1 @@
-let usuarios = [{nombre : "Elliot", genero : "masculino"}, {nombre : "Israel", genero : "masculino"}];
+let usuarios = [{nombre : "Helio", genero : "masculino"}, {nombre : "Iztraciolo", genero : "masculino"}];
