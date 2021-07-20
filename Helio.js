@@ -1,1 +1,2 @@
-console.log("¡Hola, soy un elemento químico! Bienvenido a mi mundo");
+console.log("¡Hola, soy el elemento químico Helio (He)!");
+
